@@ -41,6 +41,7 @@ window.envConfig = {
 ```
 
 # После сборки
+## `npm run install`
 ## `npm run build`
 
 ### `build/envConfig.js`
